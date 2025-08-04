@@ -6,7 +6,8 @@
 
 **1. All the companies whose name match 'Babelgum'. Retrieve only their `name` field.**
 
-<!-- Your Query Goes Here -->
+{name: 'Babelgum'}
+{name: 1, _id: 0}
 
 <br>
 
